@@ -1,0 +1,8 @@
+streamlit
+faiss-cpu
+sentence-transformers
+pdfplumber
+nltk
+tqdm
+python-dotenv
+google-generativeai
